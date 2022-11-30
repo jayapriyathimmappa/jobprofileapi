@@ -1,0 +1,45 @@
+
+body{
+  background-image: url('https://www.jdp.com/wp-content/uploads/2019/08/blog-backgroundcheck.jpg');
+  text-align: center;
+  background-size: cover;
+}
+ .app{
+
+  
+
+
+ }
+ .king{
+  color: blue;
+
+ }
+ .search{
+
+ }
+ .location{
+  color: darkblue;
+
+ }
+ .description{
+  color: darkblue;
+
+ }
+ .feels{
+
+  color: darkblue;
+ }
+ .humidity{
+  color: darkblue;
+
+ }
+ input{
+  border-radius: 5px;
+  padding: 10px;
+  
+ }
+ input:hover{
+  border-color: rebeccapurple;
+  cursor: auto;
+  color: #400;
+ }
